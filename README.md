@@ -1,7 +1,9 @@
 ### Hi👋, I'm Emanuele, an Italian Frontend Developer...
 
 
-👀 I'm interested in coding, animals and nature
+* 👀 I'm interested in coding, animals and nature
+* 💥 Hobbies: gym, cooking
+* ✈️ I love travelling and exploring new places..
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleDB&layout=compact&theme=dark"/>
