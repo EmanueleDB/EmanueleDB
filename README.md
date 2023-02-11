@@ -6,7 +6,7 @@
 * ✈️ I love travelling and exploring new places..
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleDB&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleDB&layout=compact"/>
 
 <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
