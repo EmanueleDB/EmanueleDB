@@ -4,7 +4,7 @@
 👀 I'm interested in coding, animals and nature
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleDB&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanueleDB&layout=compact&theme=dark"/>
 
 <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
